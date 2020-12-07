@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="em desenvolvimento" src="././src/assets/images/under-development.png" width="65%">
-</p>
-
 <h1 align="center">
 :small_red_triangle_down: Introduction to Angular 8 
 </h1>
@@ -39,6 +35,7 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
 </p>
 
 ## :cloud: Deploy
+  There is no deploy in this case, just implemented in localhost.
 
 ## :rocket: Technologies
   To build this project the follow technologies were used:
@@ -48,35 +45,39 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
   - [TypeScript](https://www.typescriptlang.org/)
   - [Angular 8](https://angular.io/)
   - [Bootstrap](https://getbootstrap.com/)
-  - [Font Awesome)](https://fontawesome.com/)
+  - [Font Awesome)](https://fontawesome.com/) 
 
 ## :computer: Installation
 
-  1. Clone this repository on your computer:
+  1. Clone the server repository on your computer:
 
-  `$ git clone https://...`
+    `$ git clone https://github.com/clovisdanielcosta/course-manager-server.git`
 
-  2. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+  2. Type in a terminal:
 
-3. Development server
+    `$ cd course-manager-server`
+    `$ npm install`
+    `$ node serve.js`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+  3. Clone this repository on your computer (OUTSIDE the folder above):
 
-4. Code scaffolding
+  `$ git clone https://github.com/clovisdanielcosta/course-manager.git`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  4. Type in a terminal:
 
-5. Running unit tests
+    `$ cd course-manager`
+    `$ npm install`
+    `$ ng serve`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-6. Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+  5. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## :books: Learning
 
   - Better understanding about typescript.
+  - Segregate in module.
+  - Bootstrap make very easy page styles.
 
 ## :small_orange_diamond: Sharing
 
@@ -85,6 +86,10 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## :small_orange_diamond: Customizing
+
+  - Create new route and home page.
+  - Image of Error 404 page more user friendly.
+  - Logo and new link on nav bar.
 
 ## :small_orange_diamond: License
 
