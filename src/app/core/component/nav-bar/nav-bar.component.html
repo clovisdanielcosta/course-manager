@@ -1,5 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a [routerLink]="['/courses']" class="navbar-brand">Course Manager</a>
+    <img src="../../../../assets/images/everybody-logo-black.png" alt="logo angular" width="10%">
+    <a class="navbar-brand mr-5"></a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -9,8 +10,14 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
+                <a [routerLink]="['/home']"  class="nav-link mr-2">Home</a>
+            </li>
+            <li class="nav-item">
                 <a [routerLink]="['/courses']" routerLinkActive="active" class="nav-link">Courses</a>
             </li>
         </ul>
     </div>
+
+    <a class="navbar-brand mr-5">Course Manager</a>
+
 </nav>
