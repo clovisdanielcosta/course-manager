@@ -31,7 +31,7 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
 </p>
 
 <p align="center">
-  <img alt="Gif animado do projeto" src="" width="100%">
+  <img alt="Gif animado do projeto" src="./src/assets/images/course-manager.gif" width="100%">
 </p>
 
 ## :cloud: Deploy
@@ -49,29 +49,27 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
 
 ## :computer: Installation
 
-  1. Clone the server repository on your computer:
+1. Clone the server repository on your computer:
 
     `$ git clone https://github.com/clovisdanielcosta/course-manager-server.git`
 
-  2. Type in a terminal:
+2. Type in a terminal:
 
     `$ cd course-manager-server`
     `$ npm install`
     `$ node serve.js`
 
-  3. Clone this repository on your computer (OUTSIDE the folder above):
+3. Clone this repository on your computer (OUTSIDE the folder above):
 
-  `$ git clone https://github.com/clovisdanielcosta/course-manager.git`
+    `$ git clone https://github.com/clovisdanielcosta/course-manager.git`
 
-  4. Type in a terminal:
+4. Type in a terminal:
 
     `$ cd course-manager`
     `$ npm install`
     `$ ng serve`
 
-
-
-  5. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+5. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## :books: Learning
 
