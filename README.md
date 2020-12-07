@@ -17,7 +17,7 @@ Bootcamp everis Fullstack Developer by Digital Innovation One
 </p>
 
 <p>
-This repository was created as part of bootcamp "everis FullStack Developer" by Digital Innovation One  to building a manager courses project with purpouse to introduce the Angular 8 basics concepts.
+This repository was created as part of bootcamp "everis FullStack Developer" by Digital Innovation One  to building a manager courses project with purpose to introduce the Angular 8 basics concepts.
 </p>
 
 <p align="center">
