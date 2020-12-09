@@ -17,7 +17,7 @@ Bootcamp everis Fullstack Developer by Digital Innovation One
 </p>
 
 <p>
-This repository was created as part of bootcamp "everis FullStack Developer" by Digital Innovation One  to building a manager courses project with purpose to introduce the Angular 8 basics concepts.
+This repository was created as part of bootcamp "everis FullStack Developer" by Digital Innovation One to building a course manager app with purpose to introduce the Angular 8 basics concepts.
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
   - [TypeScript](https://www.typescriptlang.org/)
   - [Angular 8](https://angular.io/)
   - [Bootstrap](https://getbootstrap.com/)
-  - [Font Awesome)](https://fontawesome.com/) 
+  - [Font Awesome](https://fontawesome.com/) 
 
 ## :computer: Installation
 
@@ -56,7 +56,9 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
 2. Type in a terminal:
 
     `$ cd course-manager-server`
+
     `$ npm install`
+
     `$ node serve.js`
 
 3. Clone this repository on your computer (OUTSIDE the folder above):
@@ -66,7 +68,9 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
 4. Type in a terminal:
 
     `$ cd course-manager`
+
     `$ npm install`
+    
     `$ ng serve`
 
 5. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
